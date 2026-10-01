@@ -187,3 +187,9 @@ Cloud Run
   ↓
 Cloud SQL
 ```
+
+※
+最小最低構成で建てたつもりだが普通にきつい
+<img width="1332" height="328" alt="image" src="https://github.com/user-attachments/assets/9bff1e46-6929-42e2-af36-9aae49107496" />
+
+<img width="1267" height="385" alt="image" src="https://github.com/user-attachments/assets/12f8ab35-bd1e-4ad3-bc41-e361c2857c05" />
